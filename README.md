@@ -1,8 +1,4 @@
-### Hi there 👋
-
-
-
-# Youssef ASSOIL - Software Engineering Student
+## Youssef ASSOIL - Software Engineering Student
 
 Hello! I'm Youssef Assoil, a software engineering student with a passion for developing innovative solutions. Currently pursuing my Master's in Information Systems Engineering at Ecole Superieure d’Ingenierie en Sciences Appliquees (ESISA) in Fes, Morocco.
 
@@ -54,6 +50,7 @@ Hello! I'm Youssef Assoil, a software engineering student with a passion for dev
 
 - **Version Control:** 
   - ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) Git
+
 
 ## Projects
 
