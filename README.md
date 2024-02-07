@@ -3,9 +3,9 @@
 
 ## Education:<br>
 <br>- **Ecole Superieure d’ingenierie en sciences Appliquees (ESISA), FES, MOROCCO**<br>  
-- *Master 1 (M1) in INGÉNIERIE DES SYSTÈMES D'INFORMATION (ISI)* - 2023 (Expected)<br> 
-- *Bachelor's Degree in INGENIEURIE LOGICIEL* - 2020<br>
-- *High School Diploma in SCIENCE PHYSIQUE* - 2018<br>
+- *Master 1 (M1) in INGÉNIERIE DES SYSTÈMES D'INFORMATION (ISI)* - 2024 (Expected)<br> 
+- *Bachelor's Degree in INGENIEURIE LOGICIEL* - 2021<br>
+- *High School Diploma in SCIENCE PHYSIQUE* - 2019<br>
 
 ## Projects<br><br>
 
