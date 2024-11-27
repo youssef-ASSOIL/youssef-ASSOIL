@@ -1,6 +1,3 @@
-Here's the updated markdown code reflecting your current academic status:
-
-```markdown
 # 💫 About Me:
 Hello! I'm Youssef Assoil, a software engineering student with a passion for developing innovative solutions. Currently pursuing my Master's in *MSc Expert Informatique et Systèmes d'Information* at EPSI, Montpellier, France.
 
@@ -153,6 +150,3 @@ Here's the completed **💻 Tech Stack** section:
 ### **Cloud Services:**
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) 
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=black)
-
----
-```
