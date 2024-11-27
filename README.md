@@ -100,11 +100,6 @@ Hello! I'm Youssef Assoil, a software engineering student with a passion for dev
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/youssef.assoil.7)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assoilyoussef/)  
 
----
-
-Here's the completed **💻 Tech Stack** section:
-
-```markdown
 ## 💻 Tech Stack:
 ### **Programming Languages:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
