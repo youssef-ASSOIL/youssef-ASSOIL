@@ -15,24 +15,6 @@ Passionate Full-Stack Developer currently pursuing an MSc at EPSI, specializing 
 
 ---
 
-## 💼 Professional Experience
-### **BioNettoyage 30** - Full-Stack & DevOps Developer  
-- Developed a business application (Symfony/Angular/MySQL) for cleaning services, quotes, and client tracking.  
-- Designed UML/MCD diagrams and MVC architecture.  
-- Implemented Docker containerization and CI/CD pipelines with Jenkins.  
-
-### **Assala Iskane** - Full-Stack Developer  
-- Built an internal management app (employees, transport, goods, billing, absences).  
-- Backend: Java Spring Boot | Frontend: React.js | Database: MySQL.  
-- Designed UML/MCD and implemented MVC modules.  
-
-### **MedZair (Medical Platform)** - Full-Stack Developer  
-- Developed a medical management web platform (React.js, Node.js, MongoDB).  
-- Created UML diagrams (Use Case, Sequence, Classes) and business process modeling.  
-- Integrated features: replacement tracking, interaction traceability, statistics.  
-
----
-
 ## 🚀 Academic Projects
 - **Toxic Waste Management Web/Mobile App (Flutter/Dart/Firebase/MongoDB)**  
 - **Chess Game (C++/QtCreator)** - Interactive GUI with full game rules and AI.  
@@ -67,12 +49,6 @@ Design Patterns • MVC • UML • Merise
 - LinkedIn Learning – Advanced Design Patterns: Design Principles  
 - Java Foundations Professional Certificate (JetBrains)  
 - Docker Foundations Professional Certificate  
-
----
-
-## 🌍 Languages
-- **French**: B2 (TCF)  
-- **English**: Intermediate  
 
 ---
 
